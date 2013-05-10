@@ -1,3 +1,10 @@
+# PyGrunn Ray Tracer
+# Written by Emil Loer
+#
+# Made for my talk at the PyGrunn Conference of 2013
+#
+# This code is licensed under the terms of the MIT license
+
 import math
 
 class Vector(object):
